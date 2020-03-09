@@ -7,6 +7,6 @@
 
 function redirect()
 {
-    window.location = "http://www.jayanthchennamangalam.com/";
+    window.location = "https://www.jayanthchennamangalam.com/";
 }
 
